@@ -2,7 +2,6 @@ var files = [
   "/Curriculo/index.html",
   "/Curriculo/manifest.json",  
   "/Curriculo/estilo.css",
-  "/Curriculo/service-worker.js",
   "/Curriculo/img/face.png",
   "/Curriculo/img/git.png",
   "/Curriculo/img/linkedin.png",
