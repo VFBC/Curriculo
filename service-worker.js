@@ -22,7 +22,7 @@ if (typeof files == 'undefined') {
   files.push('./');
 }
 
-var CACHE_NAME = 'victor-v2';
+var CACHE_NAME = 'victor-v12';
 
 self.addEventListener('activate', function(event) {
   console.log('[SW] Activate');
