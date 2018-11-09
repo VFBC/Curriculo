@@ -1,18 +1,18 @@
 var files = [
-  "/Curriculo/index.html",
-  "/Curriculo/manifest.json",  
-  "/Curriculo/estilo.css",
-  "/Curriculo/service-worker.js",
-  "/Curriculo/img/face.png",
-  "/Curriculo/img/git.png",
-  "/Curriculo/img/linkedin.png",
-  "/Curriculo/img/perfil.jpg",
-  "/Curriculo/images/icons/icon-32x32.png",
-  "/Curriculo/images/icons/icon-128x128.png",
-  "/Curriculo/images/icons/icon-144x144.png",
-  "/Curriculo/images/icons/icon-152x152.png",
-  "/Curriculo/images/icons/icon-192x192.png",
-  "/Curriculo/images/icons/icon-256x256.png"
+  "/curriculo/index.html",
+  "/curriculo/manifest.json",  
+  "/curriculo/estilo.css",
+  "/curriculo/service-worker.js",
+  "/curriculo/img/face.png",
+  "/curriculo/img/git.png",
+  "/curriculo/img/linkedin.png",
+  "/curriculo/img/perfil.jpg",
+  "/curriculo/images/icons/icon-32x32.png",
+  "/curriculo/images/icons/icon-128x128.png",
+  "/curriculo/images/icons/icon-144x144.png",
+  "/curriculo/images/icons/icon-152x152.png",
+  "/curriculo/images/icons/icon-192x192.png",
+  "/curriculo/images/icons/icon-256x256.png"
   
   
 ];
