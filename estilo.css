@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+.fundo{
+	border: solid 1px;
+	background-color:darkgray;
+	height: 1000px;
+	position: relative;
+}
+.bloco{
+    margin-top: 220px;
+	background-color: white;
+	height: 500px;
+	position:static;
+	
+
+}
+.bloco h1{
+	color: orange;
+	font-size: 60px;
+	margin-left: 160px;
+	
+		
+}
+.bloco h2{
+	color: orange;
+	font-size: 50px;
+	margin-left: 270px;
+	
+		
+}
+.foto{
+	display: block;
+    border-radius: 50%;
+	width: 300px;
+	margin-top: 100px !important;	
+	margin-left: 100px !important;
+	position: absolute;
+}
+.icones{
+	margin-left: 275px;
+	position: relative;
+	margin-top: 250px;
+}
+.icone{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+    
+}
+.sep{
+	height: 25px;
+	width: 100px;
+	border-radius: 50px;
+    background-color: orange;
+}
+.text{
+	border: solid 1px;
+	
+	font-size: 30px;
+}
+.text h2{
+	font-size: 60px;
+}
+.txt{
+	border: solid 1px;
+	
+	font-size: 30px;
+}
+#dife{
+	background-color: darkslateblue;
+}
+.xp h2, small{
+	color: orange;
+}
+
+#rodape {
+	background-color: darkslateblue;
+	color:orange;
+	
+}
+#rodape h3{
+	margin: auto;
+}
